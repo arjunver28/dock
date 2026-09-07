@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="52dp"
+    android:layout_height="52dp"
+    android:layout_margin="3dp"
+    android:background="@drawable/bg_floating_bubble"
+    android:padding="6dp"
+    android:clickable="true"
+    android:focusable="true">
+
+    <ImageView
+        android:id="@+id/ivItemBubbleIcon"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:contentDescription="Minimized Floating App" />
+
+    <ImageView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="bottom|end"
+        android:src="@drawable/ic_freeform_window"
+        app:tint="#64B5F6"
+        android:contentDescription="Badge" />
+
+</FrameLayout>

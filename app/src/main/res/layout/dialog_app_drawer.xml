@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg_app_drawer"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingTop="14dp"
+    android:paddingBottom="12dp"
+    android:elevation="16dp">
+
+    <!-- RECENTS SECTION -->
+    <LinearLayout
+        android:id="@+id/layoutRecentsSection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tvRecentsHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:layout_marginBottom="6dp"
+            android:text="🕒 Recent Applications"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:textColor="#B0BEC5" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvRecentsList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:overScrollMode="never"
+            android:layout_marginBottom="8dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="10dp"
+            android:background="#26FFFFFF" />
+    </LinearLayout>
+
+    <!-- ALL APPLICATIONS SECTION -->
+    <TextView
+        android:id="@+id/tvAllAppsHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="8dp"
+        android:text="📱 All Applications"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvAppsList"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:scrollbars="vertical"
+        android:overScrollMode="never" />
+
+</LinearLayout>

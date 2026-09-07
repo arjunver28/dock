@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Floating Taskbar</string>
+    <string name="title_taskbar_controller">Floating Taskbar Dock</string>
+    <string name="accessibility_service_description">Enables native system navigation gesture detection and multi-window split screen for the Floating Taskbar Dock without any overlay interference.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutBubbleRoot"
+    android:layout_width="56dp"
+    android:layout_height="56dp"
+    android:background="@drawable/bg_floating_bubble"
+    android:padding="8dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:elevation="16dp">
+
+    <!-- App Icon -->
+    <ImageView
+        android:id="@+id/ivBubbleAppIcon"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:contentDescription="Minimized App Instance" />
+
+    <!-- Mini Window Badge -->
+    <ImageView
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:layout_gravity="bottom|end"
+        android:src="@drawable/ic_freeform_window"
+        app:tint="#64B5F6"
+        android:contentDescription="Freeform Badge" />
+
+</FrameLayout>

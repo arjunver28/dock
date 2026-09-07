@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutFloatingContainerRoot"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg_taskbar_dock"
+    android:padding="4dp"
+    android:gravity="center"
+    android:elevation="20dp">
+
+    <!-- Container for all minimized floating app bubble icons -->
+    <LinearLayout
+        android:id="@+id/layoutBubblesItems"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center" />
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\view_taskbar.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\view_taskbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\dialog_taskbar_mode_popup.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\dialog_taskbar_mode_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\dialog_select_dock_apps.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\dialog_select_dock_apps.xml"
+    },
+    {
+        "merged": "com.example.taskbartoggle.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.taskbartoggle.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.taskbartoggle.app-mergeDebugResources-30:/layout/view_taskbar.xml",
+        "source": "com.example.taskbartoggle.app-main-33:/layout/view_taskbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\dialog_app_drawer.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\dialog_app_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\item_app_drawer.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\item_app_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\view_drag_target_overlay.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\view_drag_target_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\dialog_app_multitasking_menu.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\dialog_app_multitasking_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\item_select_dock_app.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\item_select_dock_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\item_recent_app.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\item_recent_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\layout_floating_bubble.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\layout_floating_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\item_floating_bubble_icon.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\item_floating_bubble_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\layout_floating_bubbles_container.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\layout_floating_bubbles_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-mergeDebugResources-30:\\layout\\item_taskbar_icon.xml",
+        "source": "C:\\Users\\arjun\\.gradle\\daemon\\9.3.0\\com.example.taskbartoggle.app-main-33:\\layout\\item_taskbar_icon.xml"
+    }
+]
